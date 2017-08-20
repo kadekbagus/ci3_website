@@ -49,12 +49,27 @@
 <section id="boxes">
     <div class="container">
         <div class="box">
+            <i class="fa fa-signal fa-5x"></i>
+            <h3>Grow Your Audience</h3>
+            <p>Lorem dasdasdasdasdasd</p>
+        </div>
+
+        <div class="box">
+            <i class="fa fa-photo fa-5x"></i>
+            <h3>Modern Web Design</h3>
+            <p>Lorem dasdasdasdasdasd</p>
+        </div>
+
+        <div class="box">
+            <i class="fa fa-cube fa-5x"></i>
+            <h3>Ultra fast hosting</h3>
+            <p>Lorem dasdasdasdasdasd</p>
         </div>
     </div>
 </section>
 
 <footer>
-    
+    <p> web design, coyright &copy; 2017</p>
 </footer>
 
 <script src="<?php echo asset_url(); ?>js/jquery-3.2.1.min.js"></script>    
